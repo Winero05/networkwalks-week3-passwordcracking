@@ -1,4 +1,4 @@
-# networkwalks-week2-passwordcracking
+# networkwalks-week3-passwordcracking
 crack password with john the ripper
 
 
